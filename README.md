@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roo-shy
-- 🌱 Web3 contributor since 2019
+- 🌱 Web3 contributor 2018, Web2 since 2012
 - 💞️ I’m looking to collaborate on web3 frontend, and can help you get started with the DAO
 - 📫 Reach me at ru_sha_nia@yahoo.ca
 
