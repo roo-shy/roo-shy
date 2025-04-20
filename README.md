@@ -1,3 +1,3 @@
 - 🗺️ Web3 dev communities. Let's hack!
-- 🌱 Web3 contributor since 2018, Web2 since 2012
+- 🌱 AI & Public Goods
 - ☮️ Web3 for good
