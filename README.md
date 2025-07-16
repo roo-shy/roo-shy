@@ -1,3 +1,2 @@
 - 🗺️ Web3 dev communities. Let's hack!
-- 🌱 AI & Public Goods
-- ☮️ Web3 for good
+- 🌱 Everything AI
